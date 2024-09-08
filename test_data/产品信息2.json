@@ -1,0 +1,221 @@
+{
+  "products": [
+    {
+      "product_name": "智能摄像头",
+      "models": [
+        {"model": "CamX", "stock": 300, "price": 699},
+        {"model": "CamS", "stock": 500, "price": 499}
+      ]
+    },
+    {
+      "product_name": "游戏键盘",
+      "models": [
+        {"model": "KeyPro", "stock": 400, "price": 899},
+        {"model": "KeyLite", "stock": 600, "price": 599}
+      ]
+    },
+    {
+      "product_name": "游戏鼠标",
+      "models": [
+        {"model": "MouseX", "stock": 700, "price": 399},
+        {"model": "MouseLite", "stock": 900, "price": 299}
+      ]
+    },
+    {
+      "product_name": "智能门锁",
+      "models": [
+        {"model": "LockX", "stock": 200, "price": 1599},
+        {"model": "LockS", "stock": 300, "price": 1299}
+      ]
+    },
+    {
+      "product_name": "智能灯泡",
+      "models": [
+        {"model": "LightX", "stock": 1000, "price": 199},
+        {"model": "LightS", "stock": 1200, "price": 149}
+      ]
+    },
+    {
+      "product_name": "空气净化器",
+      "models": [
+        {"model": "AirX", "stock": 150, "price": 2999},
+        {"model": "AirS", "stock": 180, "price": 1999}
+      ]
+    },
+    {
+      "product_name": "电动牙刷",
+      "models": [
+        {"model": "BrushX", "stock": 800, "price": 399},
+        {"model": "BrushS", "stock": 1000, "price": 299}
+      ]
+    },
+    {
+      "product_name": "扫地机器人",
+      "models": [
+        {"model": "RobotX", "stock": 120, "price": 3599},
+        {"model": "RobotS", "stock": 200, "price": 2999}
+      ]
+    },
+    {
+      "product_name": "咖啡机",
+      "models": [
+        {"model": "CoffeeX", "stock": 150, "price": 1999},
+        {"model": "CoffeeS", "stock": 250, "price": 1599}
+      ]
+    },
+    {
+      "product_name": "微波炉",
+      "models": [
+        {"model": "MicroX", "stock": 400, "price": 899},
+        {"model": "MicroS", "stock": 600, "price": 699}
+      ]
+    },
+    {
+      "product_name": "冰箱",
+      "models": [
+        {"model": "FridgeX", "stock": 100, "price": 5999},
+        {"model": "FridgeS", "stock": 120, "price": 4999}
+      ]
+    },
+    {
+      "product_name": "洗衣机",
+      "models": [
+        {"model": "WasherX", "stock": 180, "price": 4599},
+        {"model": "WasherS", "stock": 200, "price": 3999}
+      ]
+    },
+    {
+      "product_name": "烘干机",
+      "models": [
+        {"model": "DryerX", "stock": 150, "price": 3599},
+        {"model": "DryerS", "stock": 180, "price": 2999}
+      ]
+    },
+    {
+      "product_name": "电烤箱",
+      "models": [
+        {"model": "OvenX", "stock": 300, "price": 2999},
+        {"model": "OvenS", "stock": 400, "price": 2599}
+      ]
+    },
+    {
+      "product_name": "空气炸锅",
+      "models": [
+        {"model": "FryerX", "stock": 500, "price": 699},
+        {"model": "FryerS", "stock": 600, "price": 499}
+      ]
+    },
+    {
+      "product_name": "电饭煲",
+      "models": [
+        {"model": "CookerX", "stock": 600, "price": 999},
+        {"model": "CookerS", "stock": 800, "price": 799}
+      ]
+    },
+    {
+      "product_name": "榨汁机",
+      "models": [
+        {"model": "JuicerX", "stock": 700, "price": 699},
+        {"model": "JuicerS", "stock": 900, "price": 499}
+      ]
+    },
+    {
+      "product_name": "破壁机",
+      "models": [
+        {"model": "BlenderX", "stock": 500, "price": 1999},
+        {"model": "BlenderS", "stock": 600, "price": 1599}
+      ]
+    },
+    {
+      "product_name": "投影仪",
+      "models": [
+        {"model": "ProjectorX", "stock": 300, "price": 3999},
+        {"model": "ProjectorS", "stock": 400, "price": 2999}
+      ]
+    },
+    {
+      "product_name": "净水器",
+      "models": [
+        {"model": "WaterX", "stock": 250, "price": 2999},
+        {"model": "WaterS", "stock": 300, "price": 2499}
+      ]
+    },
+    {
+      "product_name": "吸尘器",
+      "models": [
+        {"model": "VacuumX", "stock": 200, "price": 1999},
+        {"model": "VacuumS", "stock": 300, "price": 1599}
+      ]
+    },
+    {
+      "product_name": "智能窗帘",
+      "models": [
+        {"model": "CurtainX", "stock": 400, "price": 1599},
+        {"model": "CurtainS", "stock": 500, "price": 1299}
+      ]
+    },
+    {
+      "product_name": "智能温控器",
+      "models": [
+        {"model": "ThermoX", "stock": 350, "price": 1299},
+        {"model": "ThermoS", "stock": 450, "price": 999}
+      ]
+    },
+    {
+      "product_name": "智能风扇",
+      "models": [
+        {"model": "FanX", "stock": 600, "price": 799},
+        {"model": "FanS", "stock": 700, "price": 599}
+      ]
+    },
+    {
+      "product_name": "电热水壶",
+      "models": [
+        {"model": "KettleX", "stock": 1000, "price": 299},
+        {"model": "KettleS", "stock": 1200, "price": 199}
+      ]
+    },
+    {
+      "product_name": "跑步机",
+      "models": [
+        {"model": "TreadX", "stock": 150, "price": 5999},
+        {"model": "TreadS", "stock": 180, "price": 4999}
+      ]
+    },
+    {
+      "product_name": "动感单车",
+      "models": [
+        {"model": "BikeX", "stock": 200, "price": 3999},
+        {"model": "BikeS", "stock": 250, "price": 2999}
+      ]
+    },
+    {
+      "product_name": "健身环",
+      "models": [
+        {"model": "RingX", "stock": 800, "price": 499},
+        {"model": "RingS", "stock": 900, "price": 399}
+      ]
+    },
+    {
+      "product_name": "电动按摩椅",
+      "models": [
+        {"model": "MassageX", "stock": 80, "price": 9999},
+        {"model": "MassageS", "stock": 100, "price": 7999}
+      ]
+    },
+    {
+      "product_name": "智能体重秤",
+      "models": [
+        {"model": "ScaleX", "stock": 500, "price": 299},
+        {"model": "ScaleS", "stock": 600, "price": 199}
+      ]
+    },
+    {
+      "product_name": "心率监测仪",
+      "models": [
+        {"model": "HeartX", "stock": 300, "price": 599},
+        {"model": "HeartS", "stock": 400, "price": 499}
+      ]
+    }
+  ]
+}

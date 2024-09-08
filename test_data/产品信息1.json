@@ -1,0 +1,76 @@
+{
+  "products": [
+    {
+      "product_name": "智能手机",
+      "models": [
+        {"model": "X100", "stock": 150, "price": 2999},
+        {"model": "X200", "stock": 100, "price": 3599},
+        {"model": "X300", "stock": 200, "price": 4299}
+      ]
+    },
+    {
+      "product_name": "笔记本电脑",
+      "models": [
+        {"model": "Pro15", "stock": 80, "price": 8999},
+        {"model": "Pro13", "stock": 120, "price": 7599},
+        {"model": "Air13", "stock": 200, "price": 6599}
+      ]
+    },
+    {
+      "product_name": "智能手表",
+      "models": [
+        {"model": "WatchX", "stock": 500, "price": 1999},
+        {"model": "WatchS", "stock": 600, "price": 1499}
+      ]
+    },
+    {
+      "product_name": "蓝牙耳机",
+      "models": [
+        {"model": "SoundPro", "stock": 1000, "price": 399},
+        {"model": "SoundLite", "stock": 1200, "price": 299}
+      ]
+    },
+    {
+      "product_name": "平板电脑",
+      "models": [
+        {"model": "Tab10", "stock": 200, "price": 4599},
+        {"model": "Tab8", "stock": 300, "price": 3299}
+      ]
+    },
+    {
+      "product_name": "台式电脑",
+      "models": [
+        {"model": "DeskX", "stock": 50, "price": 7999},
+        {"model": "DeskS", "stock": 70, "price": 5999}
+      ]
+    },
+    {
+      "product_name": "智能音箱",
+      "models": [
+        {"model": "SpeakerX", "stock": 500, "price": 999},
+        {"model": "SpeakerMini", "stock": 600, "price": 599}
+      ]
+    },
+    {
+      "product_name": "4K电视",
+      "models": [
+        {"model": "TV55", "stock": 100, "price": 4999},
+        {"model": "TV65", "stock": 80, "price": 5999}
+      ]
+    },
+    {
+      "product_name": "游戏主机",
+      "models": [
+        {"model": "GameX", "stock": 300, "price": 3999},
+        {"model": "GameS", "stock": 400, "price": 2999}
+      ]
+    },
+    {
+      "product_name": "路由器",
+      "models": [
+        {"model": "RouterX", "stock": 800, "price": 399},
+        {"model": "RouterS", "stock": 900, "price": 299}
+      ]
+    }
+  ]
+}

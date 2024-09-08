@@ -1,0 +1,103 @@
+{
+  "promotions": [
+    {
+      "product_name": "空气净化器",
+      "promotion_details": {
+        "discount_type": "满减",
+        "condition": "满500元减100元",
+        "start_date": "2024-09-10",
+        "end_date": "2024-09-20"
+      }
+    },
+    {
+      "product_name": "电动牙刷",
+      "promotion_details": {
+        "discount_type": "满减",
+        "condition": "满500元减100元",
+        "start_date": "2024-09-12",
+        "end_date": "2024-09-22"
+      }
+    },
+    {
+      "product_name": "扫地机器人",
+      "promotion_details": {
+        "discount_type": "满减",
+        "condition": "满500元减100元",
+        "start_date": "2024-09-15",
+        "end_date": "2024-09-25"
+      }
+    },
+    {
+      "product_name": "咖啡机",
+      "promotion_details": {
+        "discount_type": "满减",
+        "condition": "满500元减100元",
+        "start_date": "2024-09-18",
+        "end_date": "2024-09-28"
+      }
+    },
+    {
+      "product_name": "微波炉",
+      "promotion_details": {
+        "discount_type": "满减",
+        "condition": "满500元减100元",
+        "start_date": "2024-09-20",
+        "end_date": "2024-09-30"
+      }
+    },
+    {
+      "product_name": "冰箱",
+      "promotion_details": {
+        "discount_type": "满减",
+        "condition": "满500元减100元",
+        "start_date": "2024-09-10",
+        "end_date": "2024-09-18"
+      }
+    },
+    {
+      "product_name": "洗衣机",
+      "promotion_details": {
+        "discount_type": "满减",
+        "condition": "满500元减100元",
+        "start_date": "2024-09-12",
+        "end_date": "2024-09-22"
+      }
+    },
+    {
+      "product_name": "烘干机",
+      "promotion_details": {
+        "discount_type": "满减",
+        "condition": "满500元减100元",
+        "start_date": "2024-09-15",
+        "end_date": "2024-09-25"
+      }
+    },
+    {
+      "product_name": "电烤箱",
+      "promotion_details": {
+        "discount_type": "满减",
+        "condition": "满500元减100元",
+        "start_date": "2024-09-18",
+        "end_date": "2024-09-28"
+      }
+    },
+    {
+      "product_name": "空气炸锅",
+      "promotion_details": {
+        "discount_type": "满减",
+        "condition": "满500元减100元",
+        "start_date": "2024-09-20",
+        "end_date": "2024-09-30"
+      }
+    },
+    {
+      "product_name": "电饭煲",
+      "promotion_details": {
+        "discount_type": "满减",
+        "condition": "满500元减100元",
+        "start_date": "2024-09-22",
+        "end_date": "2024-09-30"
+      }
+    }
+  ]
+}

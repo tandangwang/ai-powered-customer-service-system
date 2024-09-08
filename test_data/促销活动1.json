@@ -1,0 +1,152 @@
+{
+  "promotions": [
+    {
+      "product_name": "智能手机",
+      "promotions": [
+        {
+          "model": "X100",
+          "discount": 10,
+          "promo_price": 2699,
+          "start_date": "2024-09-05",
+          "end_date": "2024-09-12"
+        },
+        {
+          "model": "X200",
+          "discount": 15,
+          "promo_price": 3059,
+          "start_date": "2024-09-06",
+          "end_date": "2024-09-15"
+        }
+      ]
+    },
+    {
+      "product_name": "笔记本电脑",
+      "promotions": [
+        {
+          "model": "Pro15",
+          "discount": 5,
+          "promo_price": 8549,
+          "start_date": "2024-09-07",
+          "end_date": "2024-09-14"
+        },
+        {
+          "model": "Air13",
+          "discount": 10,
+          "promo_price": 5939,
+          "start_date": "2024-09-08",
+          "end_date": "2024-09-16"
+        }
+      ]
+    },
+    {
+      "product_name": "智能手表",
+      "promotions": [
+        {
+          "model": "WatchX",
+          "discount": 20,
+          "promo_price": 1599,
+          "start_date": "2024-09-09",
+          "end_date": "2024-09-12"
+        }
+      ]
+    },
+    {
+      "product_name": "蓝牙耳机",
+      "promotions": [
+        {
+          "model": "SoundPro",
+          "discount": 15,
+          "promo_price": 339,
+          "start_date": "2024-09-05",
+          "end_date": "2024-09-10"
+        }
+      ]
+    },
+    {
+      "product_name": "平板电脑",
+      "promotions": [
+        {
+          "model": "Tab10",
+          "discount": 12,
+          "promo_price": 4047,
+          "start_date": "2024-09-06",
+          "end_date": "2024-09-11"
+        }
+      ]
+    },
+    {
+      "product_name": "台式电脑",
+      "promotions": [
+        {
+          "model": "DeskX",
+          "discount": 8,
+          "promo_price": 7359,
+          "start_date": "2024-09-08",
+          "end_date": "2024-09-13"
+        }
+      ]
+    },
+    {
+      "product_name": "智能音箱",
+      "promotions": [
+        {
+          "model": "SpeakerX",
+          "discount": 25,
+          "promo_price": 749,
+          "start_date": "2024-09-05",
+          "end_date": "2024-09-10"
+        },
+        {
+          "model": "SpeakerMini",
+          "discount": 10,
+          "promo_price": 539,
+          "start_date": "2024-09-05",
+          "end_date": "2024-09-09"
+        }
+      ]
+    },
+    {
+      "product_name": "4K电视",
+      "promotions": [
+        {
+          "model": "TV55",
+          "discount": 18,
+          "promo_price": 4099,
+          "start_date": "2024-09-07",
+          "end_date": "2024-09-14"
+        }
+      ]
+    },
+    {
+      "product_name": "游戏主机",
+      "promotions": [
+        {
+          "model": "GameX",
+          "discount": 20,
+          "promo_price": 3199,
+          "start_date": "2024-09-08",
+          "end_date": "2024-09-12"
+        }
+      ]
+    },
+    {
+      "product_name": "路由器",
+      "promotions": [
+        {
+          "model": "RouterX",
+          "discount": 10,
+          "promo_price": 359,
+          "start_date": "2024-09-09",
+          "end_date": "2024-09-13"
+        },
+        {
+          "model": "RouterS",
+          "discount": 15,
+          "promo_price": 254,
+          "start_date": "2024-09-05",
+          "end_date": "2024-09-09"
+        }
+      ]
+    }
+  ]
+}
